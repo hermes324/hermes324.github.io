@@ -1,0 +1,437 @@
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="luoweiliao.com" resolutions="1x" timestamp="1524063505770">
+  <folder name="css">
+    <file name="site_global.css" crc="3858652902"/>
+    <file name="master_b-__.css" crc="3762216774" ref="love:chicken:she:map:encounter:clay:blackfriday:graffiti:project:design:contact:tetris:behind"/>
+    <file name="love.css" crc="4275621145" ref="love"/>
+    <file name="chicken.css" crc="4017119167" ref="chicken"/>
+    <file name="she.css" crc="485554329" ref="she"/>
+    <file name="map.css" crc="4085866251" ref="map"/>
+    <file name="encounter.css" crc="4266000710" ref="encounter"/>
+    <file name="clay.css" crc="3771937797" ref="clay"/>
+    <file name="blackfriday.css" crc="387854530" ref="blackfriday"/>
+    <file name="graffiti.css" crc="203188705" ref="graffiti"/>
+    <file name="project.css" crc="3979943283" ref="project"/>
+    <file name="design.css" crc="4089331248" ref="design"/>
+    <file name="index.css" crc="4147705001" ref="index"/>
+    <file name="contact.css" crc="4051927247" ref="contact"/>
+    <file name="tetris.css" crc="3854260291" ref="tetris"/>
+    <file name="behind.css" crc="3813064497" ref="behind"/>
+  </folder>
+  <folder name="assets">
+    <file name="black-2.jpg" crc="356139391" seo="true" mt="1515590260000"/>
+    <file name="black-3.jpg" crc="492883293" seo="true" mt="1515590386000"/>
+    <file name="black1.jpg" crc="196956261" seo="true" mt="1515590195000"/>
+    <file name="encounter.jpg" crc="4177745372" seo="true" mt="1514222298000"/>
+    <file name="encounter2.jpg" crc="88890326" seo="true" mt="1517247166000"/>
+    <file name="encounter3.jpg" crc="3862152680" seo="true" mt="1517247048000"/>
+    <file name="encounter4副本.jpg" crc="4215286232" seo="true" mt="1517246888000"/>
+    <file name="behind.jpg" crc="523728232" seo="true" mt="1514224603000"/>
+    <file name="behind4.jpg" crc="4267240568" seo="true" mt="1515882053000"/>
+    <file name="behind3.jpg" crc="516473537" seo="true" mt="1515880706000"/>
+    <file name="behind2.jpg" crc="426084442" seo="true" mt="1515880825000"/>
+    <file name="behind5.jpg" crc="56028787" seo="true" mt="1515882200000"/>
+    <file name="behind7.jpg" crc="144710515" seo="true" mt="1515882504000"/>
+    <file name="behind6.jpg" crc="492413597" seo="true" mt="1515882365000"/>
+    <file name="she.jpg" crc="4213230040" seo="true" mt="1514226964000"/>
+    <file name="she5.jpg" crc="191818898" seo="true" mt="1516090360000"/>
+    <file name="she2.jpg" crc="4064788855" seo="true" mt="1515887832000"/>
+    <file name="she-4.jpg" crc="304494072" seo="true" mt="1516089181000"/>
+    <file name="tetris-1.jpg" crc="3885565732" seo="true" mt="1516976107000"/>
+    <file name="tetris.jpg" crc="4269801903" seo="true" mt="1517226115000"/>
+    <file name="graffiti-1.jpg" crc="3781153357" seo="true" mt="1517235156000"/>
+    <file name="graffiti-7.jpg" crc="301645055" seo="true" mt="1362406362000"/>
+    <file name="graffiti-6.jpg" crc="348531060" seo="true" mt="1517237317000"/>
+    <file name="graffiti-14.jpg" crc="54018944" seo="true" mt="1362497448000"/>
+    <file name="graffiti13.jpg" crc="21878667" seo="true" mt="1362492986000"/>
+    <file name="graffiti-2.jpeg" crc="4061885726" seo="true" mt="1517235163000"/>
+    <file name="graffiti3.jpg" crc="4033047710" seo="true" mt="1517235192000"/>
+    <file name="graffiti-8.jpg" crc="3957826845" seo="true" mt="1517226747000"/>
+    <file name="graffiti5.jpg" crc="429204100" seo="true" mt="1380898052000"/>
+    <file name="graffiti4.jpg" crc="3922645663" seo="true" mt="1517235203000"/>
+    <file name="merry-christmas.jpg" crc="4001431669" seo="true" mt="1517237961000"/>
+    <file name="graffiti-11.jpg" crc="4285217456" seo="true" mt="1517238329000"/>
+    <file name="graffiti-9.jpg" crc="4034789307" seo="true" mt="1391974136000"/>
+    <file name="bbbinggou1.gif" crc="74467996" seo="true" mt="1355794096000"/>
+    <file name="bbbbingou2.gif" crc="179112042" seo="true" mt="1355942080000"/>
+    <file name="graffiti-10.jpg" crc="520134463" seo="true" mt="1516294569000"/>
+    <file name="graffiti-12.jpg" crc="3803366714" seo="true" mt="1517238360000"/>
+    <file name="map1.png" crc="468178008" seo="true" mt="1517226645000"/>
+    <file name="map3.png" crc="502179696" seo="true" mt="1517226641000"/>
+    <file name="map2.png" crc="490728713" seo="true" mt="1517226668000"/>
+    <file name="fox1.jpg" crc="4009353490" seo="true" mt="1384446876000"/>
+    <file name="fox3.jpg" crc="4112853468" seo="true" mt="1384446906000"/>
+    <file name="fox2.jpg" crc="4136981480" seo="true" mt="1384446848000"/>
+    <file name="chicken-2.jpg" crc="383510967" seo="true" mt="1515345634000"/>
+    <file name="chicken-3.jpg" crc="3805340959" seo="true" mt="1515331556000"/>
+    <file name="chicken-4.jpg" crc="4009442270" seo="true" mt="1515346921000"/>
+    <file name="chicken-5.jpg" crc="283628309" seo="true" mt="1515346233000"/>
+    <file name="chicken-6.jpg" crc="3770079331" seo="true" mt="1515346608000"/>
+    <file name="chicken-8.jpg" crc="63247222" seo="true" mt="1515331588000"/>
+    <file name="chicken-7.jpg" crc="178374785" seo="true" mt="1515347115000"/>
+    <file name="chicken10.jpg" crc="12009278" seo="true" mt="1515587947000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:project:design:contact:chicken:she:behind:encounter:blackfriday:tetris:map:clay:graffiti:love"/>
+    <file name="museutils.js" crc="3803043152" ref="index:project:design:contact:chicken:she:behind:encounter:blackfriday:tetris:map:clay:graffiti:love"/>
+    <file name="whatinput.js" crc="86476730" ref="index:project:design:contact:chicken:she:behind:encounter:blackfriday:tetris:map:clay:graffiti:love"/>
+    <file name="museconfig.js" crc="4153641093" ref="index:project:design:contact:chicken:she:behind:encounter:blackfriday:tetris:map:clay:graffiti:love"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index:project:design"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:project:design:contact:chicken:she:behind:encounter:blackfriday:tetris:map:clay:graffiti:love"/>
+    <file name="jquery.scrolleffects.js" crc="530399994" ref="index"/>
+    <file name="require.js" crc="4157109226" ref="index:project:design:contact:chicken:she:behind:encounter:blackfriday:tetris:map:clay:graffiti:love"/>
+  </folder>
+  <folder name="images">
+    <file name="u134-25.png" crc="107203674" ref="index"/>
+    <file name="design-u1274-fr.png" crc="235017033" ref="index"/>
+    <file name="design-u1274-r-fr.png" crc="4228963949" ref="index"/>
+    <file name="contact-u1277-fr.png" crc="519038340" ref="index"/>
+    <file name="contact-u1277-r-fr.png" crc="3927317647" ref="index"/>
+    <file name="project-u1271-fr.png" crc="3948991801" ref="index"/>
+    <file name="project-u1271-r-fr.png" crc="3843208577" ref="index"/>
+    <file name="chicken1.jpg" crc="3769821446" seo="true" ref="project">
+      <caption webpage="project" alt=""/>
+    </file>
+    <file name="chicken top-normal.png" crc="76008272" ref="project">
+      <caption webpage="project" alt=""/>
+    </file>
+    <file name="chicken top-onclick.png" crc="279114672" ref="project">
+      <caption webpage="project" alt=""/>
+    </file>
+    <file name="home button-onclick.jpg" crc="438829382" ref="project">
+      <caption webpage="project" alt=""/>
+    </file>
+    <file name="home button-normal.jpg" crc="4067262450" ref="project">
+      <caption webpage="project" alt=""/>
+    </file>
+    <file name="topmune pro-project.png" crc="313154118" ref="project">
+      <caption webpage="project" alt=""/>
+    </file>
+    <file name="topmune pro-onclick.png" crc="3947868613" ref="project">
+      <caption webpage="project" alt=""/>
+    </file>
+    <file name="topmune pro.png" crc="104975300" ref="project">
+      <caption webpage="project" alt=""/>
+    </file>
+    <file name="topmune des-design .png" crc="298295435" ref="project">
+      <caption webpage="project" alt=""/>
+    </file>
+    <file name="topmune des-onclick.png" crc="3760463403" ref="project">
+      <caption webpage="project" alt=""/>
+    </file>
+    <file name="topmune des.png" crc="476471278" ref="project">
+      <caption webpage="project" alt=""/>
+    </file>
+    <file name="topmune con-contact .png" crc="74273698" ref="project">
+      <caption webpage="project" alt=""/>
+    </file>
+    <file name="topmune con-onclick.png" crc="3885610716" ref="project">
+      <caption webpage="project" alt=""/>
+    </file>
+    <file name="topmune con.png" crc="306485697" ref="project">
+      <caption webpage="project" alt=""/>
+    </file>
+    <file name="mg_2009.jpg" crc="24293581" seo="true" ref="project">
+      <caption webpage="project" alt=""/>
+    </file>
+    <file name="blackfriday top-normal.png" crc="258137839" ref="project">
+      <caption webpage="project" alt=""/>
+    </file>
+    <file name="blackfriday top.png" crc="3867603990" ref="project">
+      <caption webpage="project" alt=""/>
+    </file>
+    <file name="encounter.jpg" crc="405594485" seo="true" ref="project">
+      <caption webpage="project" alt=""/>
+    </file>
+    <file name="encounter top-normal.png" crc="231358089" ref="project">
+      <caption webpage="project" alt=""/>
+    </file>
+    <file name="encounter top-onclick.png" crc="63022855" ref="project">
+      <caption webpage="project" alt=""/>
+    </file>
+    <file name="behind.jpg" crc="3926110723" seo="true" ref="project:behind">
+      <caption webpage="project" alt=""/>
+      <caption webpage="behind" alt=""/>
+    </file>
+    <file name="behind top-normal.png" crc="3987909996" ref="project">
+      <caption webpage="project" alt=""/>
+    </file>
+    <file name="behind top.png" crc="3931022453" ref="project">
+      <caption webpage="project" alt=""/>
+    </file>
+    <file name="she.jpg" crc="4172324889" seo="true" ref="project">
+      <caption webpage="project" alt=""/>
+    </file>
+    <file name="she top-normal.png" crc="347732779" ref="project">
+      <caption webpage="project" alt=""/>
+    </file>
+    <file name="she top-onclick.png" crc="242134869" ref="project">
+      <caption webpage="project" alt=""/>
+    </file>
+    <file name="u3405-4.png" crc="4008836165" ref="project:design:contact:chicken:she:behind:encounter:blackfriday:tetris:map:clay:graffiti:love"/>
+    <file name="tetris title.jpg" crc="253003454" seo="true" ref="design">
+      <caption webpage="design" alt=""/>
+    </file>
+    <file name="tetris top-graphic design to write poetry in tetris .png" crc="218049707" ref="design">
+      <caption webpage="design" alt=""/>
+    </file>
+    <file name="tetris top-to write poetry in tetris graphic design ps ai 2018.png" crc="491053345" ref="design">
+      <caption webpage="design" alt=""/>
+    </file>
+    <file name="map1.jpg" crc="164967496" seo="true" ref="design">
+      <caption webpage="design" alt=""/>
+    </file>
+    <file name="map top-illustration hand-painted map seriel of beijing travel guide.png" crc="13656542" ref="design">
+      <caption webpage="design" alt=""/>
+    </file>
+    <file name="map top.png" crc="287095160" ref="design">
+      <caption webpage="design" alt=""/>
+    </file>
+    <file name="graffiti-normal.jpg" crc="93736519" ref="design">
+      <caption webpage="design" alt=""/>
+    </file>
+    <file name="graffiti-onclick.jpg" crc="485328194" ref="design">
+      <caption webpage="design" alt=""/>
+    </file>
+    <file name="love.jpg" crc="4252754331" seo="true" ref="design">
+      <caption webpage="design" alt=""/>
+    </file>
+    <file name="love top-normal.png" crc="255244120" ref="design">
+      <caption webpage="design" alt=""/>
+    </file>
+    <file name="love top-onclick.png" crc="4122153974" ref="design">
+      <caption webpage="design" alt=""/>
+    </file>
+    <file name="fox1457x305.jpg" crc="3790765175" seo="true" ref="design">
+      <caption webpage="design" alt=""/>
+    </file>
+    <file name="fox-clay sculpture mr.fox clay sculpture of stop motion character .png" crc="4021694805" ref="design">
+      <caption webpage="design" alt=""/>
+    </file>
+    <file name="fox.png" crc="283275561" ref="design">
+      <caption webpage="design" alt=""/>
+    </file>
+    <file name="u4990-4.png" crc="75308549" ref="contact"/>
+    <file name="touxiang1.jpg" crc="4059049881" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="touxiang2.jpg" crc="3874513627" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="fb icon.png" crc="295188661" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="u4987-8.png" crc="4136780523" ref="contact"/>
+    <file name="title chicken.png" crc="4024323204" seo="true" ref="chicken">
+      <caption webpage="chicken" alt=""/>
+    </file>
+    <file name="chicken 2.jpg" crc="3990169592" seo="true" ref="chicken">
+      <caption webpage="chicken" alt=""/>
+    </file>
+    <file name="u5633-14.png" crc="4113060306" ref="chicken"/>
+    <file name="chicken 3.jpg" crc="363270542" seo="true" ref="chicken">
+      <caption webpage="chicken" alt=""/>
+    </file>
+    <file name="chicken 4.jpg" crc="211619024" seo="true" ref="chicken">
+      <caption webpage="chicken" alt=""/>
+    </file>
+    <file name="chicken 5.jpg" crc="3913903272" seo="true" ref="chicken">
+      <caption webpage="chicken" alt=""/>
+    </file>
+    <file name="chicken 6.jpg" crc="4197802042" seo="true" ref="chicken">
+      <caption webpage="chicken" alt=""/>
+    </file>
+    <file name="u5636-4.png" crc="4032030900" ref="chicken"/>
+    <file name="chicken 8.jpg" crc="4009124317" seo="true" ref="chicken">
+      <caption webpage="chicken" alt=""/>
+    </file>
+    <file name="chicken 7.jpg" crc="3958561041" seo="true" ref="chicken">
+      <caption webpage="chicken" alt=""/>
+    </file>
+    <file name="chicken10.jpg" crc="4154417214" seo="true" ref="chicken">
+      <caption webpage="chicken" alt=""/>
+    </file>
+    <file name="u3989-4.png" crc="133719379" ref="chicken"/>
+    <file name="u5639-8.png" crc="358792900" ref="chicken"/>
+    <file name="u3211-34.png" crc="4077207394" ref="chicken"/>
+    <file name="she.png" crc="225949485" seo="true" ref="she">
+      <caption webpage="she" alt=""/>
+    </file>
+    <file name="u5662-18.png" crc="4238865910" ref="she"/>
+    <file name="she529x371.jpg" crc="4125052697" seo="true" ref="she">
+      <caption webpage="she" alt=""/>
+    </file>
+    <file name="she5.jpg" crc="466945346" seo="true" ref="she">
+      <caption webpage="she" alt=""/>
+    </file>
+    <file name="she2.jpg" crc="506641391" seo="true" ref="she">
+      <caption webpage="she" alt=""/>
+    </file>
+    <file name="she 4.jpg" crc="4230176224" seo="true" ref="she">
+      <caption webpage="she" alt=""/>
+    </file>
+    <file name="u3817-16.png" crc="27502831" ref="she"/>
+    <file name="behind.png" crc="3930781271" seo="true" ref="behind">
+      <caption webpage="behind" alt=""/>
+    </file>
+    <file name="u3617-6.png" crc="3924657433" ref="behind"/>
+    <file name="behind4.jpg" crc="259636820" seo="true" ref="behind">
+      <caption webpage="behind" alt=""/>
+    </file>
+    <file name="behind3.jpg" crc="218255820" seo="true" ref="behind">
+      <caption webpage="behind" alt=""/>
+    </file>
+    <file name="behind2.jpg" crc="422596428" seo="true" ref="behind">
+      <caption webpage="behind" alt=""/>
+    </file>
+    <file name="behind5.jpg" crc="233776800" seo="true" ref="behind">
+      <caption webpage="behind" alt=""/>
+    </file>
+    <file name="behind7.jpg" crc="1236649" seo="true" ref="behind">
+      <caption webpage="behind" alt=""/>
+    </file>
+    <file name="behind6.jpg" crc="4132807881" seo="true" ref="behind">
+      <caption webpage="behind" alt=""/>
+    </file>
+    <file name="u3607-22.png" crc="4147745809" ref="behind"/>
+    <file name="encounter.png" crc="308176326" seo="true" ref="encounter">
+      <caption webpage="encounter" alt=""/>
+    </file>
+    <file name="encounter808x478.jpg" crc="197935506" seo="true" ref="encounter">
+      <caption webpage="encounter" alt=""/>
+    </file>
+    <file name="u3719-6.png" crc="63636967" ref="encounter"/>
+    <file name="encounter2.jpg" crc="4005205356" seo="true" ref="encounter">
+      <caption webpage="encounter" alt=""/>
+    </file>
+    <file name="encounter3.jpg" crc="101521451" seo="true" ref="encounter">
+      <caption webpage="encounter" alt=""/>
+    </file>
+    <file name="encounter4副本.jpg" crc="3846688614" seo="true" ref="encounter">
+      <caption webpage="encounter" alt=""/>
+    </file>
+    <file name="u3549-21.png" crc="114266351" ref="encounter"/>
+    <file name="title black.png" crc="431357378" seo="true" ref="blackfriday">
+      <caption webpage="blackfriday" alt=""/>
+    </file>
+    <file name="black 2.jpg" crc="3886780435" seo="true" ref="blackfriday">
+      <caption webpage="blackfriday" alt=""/>
+    </file>
+    <file name="black 3.jpg" crc="255379970" seo="true" ref="blackfriday">
+      <caption webpage="blackfriday" alt=""/>
+    </file>
+    <file name="black1.jpg" crc="358722129" seo="true" ref="blackfriday">
+      <caption webpage="blackfriday" alt=""/>
+    </file>
+    <file name="u5627-11.png" crc="3807204280" ref="blackfriday"/>
+    <file name="u3467-20.png" crc="148071699" ref="blackfriday"/>
+    <file name="tetris.png" crc="331709885" seo="true" ref="tetris">
+      <caption webpage="tetris" alt=""/>
+    </file>
+    <file name="u4961-15.png" crc="4190652343" ref="tetris"/>
+    <file name="tetris 1.jpg" crc="38773474" seo="true" ref="tetris">
+      <caption webpage="tetris" alt=""/>
+    </file>
+    <file name="tetris.jpg" crc="328011226" seo="true" ref="tetris">
+      <caption webpage="tetris" alt=""/>
+    </file>
+    <file name="map title.png" crc="4164589325" seo="true" ref="map">
+      <caption webpage="map" alt=""/>
+    </file>
+    <file name="u4958-19.png" crc="3816396432" ref="map"/>
+    <file name="map12.jpg" crc="4038864596" seo="true" ref="map">
+      <caption webpage="map" alt=""/>
+    </file>
+    <file name="map3.jpg" crc="192367992" seo="true" ref="map">
+      <caption webpage="map" alt=""/>
+    </file>
+    <file name="map2.jpg" crc="3974832911" seo="true" ref="map">
+      <caption webpage="map" alt=""/>
+    </file>
+    <file name="u4964-20.png" crc="197291179" ref="clay"/>
+    <file name="fox tiltle.png" crc="4007920295" seo="true" ref="clay">
+      <caption webpage="clay" alt=""/>
+    </file>
+    <file name="fox1.jpg" crc="4035990502" seo="true" ref="clay">
+      <caption webpage="clay" alt=""/>
+    </file>
+    <file name="fox3.jpg" crc="297561489" seo="true" ref="clay">
+      <caption webpage="clay" alt=""/>
+    </file>
+    <file name="fox2.jpg" crc="129214678" seo="true" ref="clay">
+      <caption webpage="clay" alt=""/>
+    </file>
+    <file name="u4911-16.png" crc="3813562818" ref="graffiti"/>
+    <file name="graffiti title.png" crc="265840708" seo="true" ref="graffiti">
+      <caption webpage="graffiti" alt=""/>
+    </file>
+    <file name="graffiti 1.jpg" crc="4133655901" seo="true" ref="graffiti">
+      <caption webpage="graffiti" alt=""/>
+    </file>
+    <file name="graffiti 7.jpg" crc="171271564" seo="true" ref="graffiti">
+      <caption webpage="graffiti" alt=""/>
+    </file>
+    <file name="graffiti 6.jpg" crc="4072782803" seo="true" ref="graffiti">
+      <caption webpage="graffiti" alt=""/>
+    </file>
+    <file name="graffiti 14.jpg" crc="4073811656" seo="true" ref="graffiti">
+      <caption webpage="graffiti" alt=""/>
+    </file>
+    <file name="graffiti13.jpg" crc="500046241" seo="true" ref="graffiti">
+      <caption webpage="graffiti" alt=""/>
+    </file>
+    <file name="graffiti 2.jpg" crc="4061885726" seo="true" ref="graffiti">
+      <caption webpage="graffiti" alt=""/>
+    </file>
+    <file name="graffiti3.jpg" crc="4128184756" seo="true" ref="graffiti">
+      <caption webpage="graffiti" alt=""/>
+    </file>
+    <file name="graffiti 8.jpg" crc="4078581746" seo="true" ref="graffiti">
+      <caption webpage="graffiti" alt=""/>
+    </file>
+    <file name="graffiti5.jpg" crc="4229272983" seo="true" ref="graffiti">
+      <caption webpage="graffiti" alt=""/>
+    </file>
+    <file name="graffiti4.jpg" crc="483543442" seo="true" ref="graffiti">
+      <caption webpage="graffiti" alt=""/>
+    </file>
+    <file name="merry christmas.jpg" crc="3789795846" seo="true" ref="graffiti">
+      <caption webpage="graffiti" alt=""/>
+    </file>
+    <file name="graffiti 11.jpg" crc="14825393" seo="true" ref="graffiti">
+      <caption webpage="graffiti" alt=""/>
+    </file>
+    <file name="graffiti 9.jpg" crc="510695886" seo="true" ref="graffiti">
+      <caption webpage="graffiti" alt=""/>
+    </file>
+    <file name="bbbinggou1.gif" crc="74467996" seo="true" ref="graffiti">
+      <caption webpage="graffiti" alt=""/>
+    </file>
+    <file name="bbbbingou2.gif" crc="179112042" seo="true" ref="graffiti">
+      <caption webpage="graffiti" alt=""/>
+    </file>
+    <file name="graffiti 10.jpg" crc="198841880" seo="true" ref="graffiti">
+      <caption webpage="graffiti" alt=""/>
+    </file>
+    <file name="graffiti 12.jpg" crc="3986856858" seo="true" ref="graffiti">
+      <caption webpage="graffiti" alt=""/>
+    </file>
+    <file name="love title.png" crc="4132848766" seo="true" ref="love">
+      <caption webpage="love" alt=""/>
+    </file>
+    <file name="u5049-15.png" crc="4024586979" ref="love"/>
+  </folder>
+  <file name="index.html" crc="22620237" seo="true" mt="1524060834952" redirect="true"/>
+  <file name="project.html" crc="475835560" seo="true" mt="1524060834947" redirect="true"/>
+  <file name="design.html" crc="4055283950" seo="true" mt="1524060834905" redirect="true"/>
+  <file name="contact.html" crc="387637130" seo="true" mt="1524063019892" redirect="true"/>
+  <file name="chicken.html" crc="3991988334" seo="true" mt="1524060834934" redirect="true"/>
+  <file name="she.html" crc="3961392117" seo="true" mt="1524060972680" redirect="true"/>
+  <file name="behind.html" crc="3790656677" seo="true" mt="1524060834939" redirect="true"/>
+  <file name="encounter.html" crc="4127479918" seo="true" mt="1524060834905" redirect="true"/>
+  <file name="blackfriday.html" crc="337709633" seo="true" mt="1524063427056" redirect="true"/>
+  <file name="tetris.html" crc="277588363" seo="true" mt="1524060834940" redirect="true"/>
+  <file name="map.html" crc="4034185185" seo="true" mt="1524060834905" redirect="true"/>
+  <file name="clay.html" crc="3883897378" seo="true" mt="1524060834948" redirect="true"/>
+  <file name="graffiti.html" crc="3890324871" seo="true" mt="1524060834932" redirect="true"/>
+  <file name="love.html" crc="3848433165" seo="true" mt="1524060834914" redirect="true"/>
+</manifest>
